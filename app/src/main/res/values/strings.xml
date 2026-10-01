@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">
+        Atividade Aposentadoria
+    </string>
+
+    <string name="titulo">
+        Cálculo de aposentadoria
+    </string>
+
+    <string name="subtitulo">
+        Informe seus dados para descobrir quanto tempo falta.
+    </string>
+
+    <string name="idade_hint">
+        Idade atual
+    </string>
+
+    <string name="calcular">
+        CALCULAR
+    </string>
+
+    <string name="limpar">
+        LIMPAR
+    </string>
+
+    <string name="resultado_inicial">
+        O resultado aparecerá aqui.
+    </string>
+
+    <string name="aluno">
+        Aluno: Arthur Taíque
+    </string>
+
+    <string-array name="generos">
+
+        <item>
+            Selecione o gênero
+        </item>
+
+        <item>
+            Masculino
+        </item>
+
+        <item>
+            Feminino
+        </item>
+
+    </string-array>
+
+</resources>
